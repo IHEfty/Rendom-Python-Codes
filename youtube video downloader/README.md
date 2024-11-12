@@ -89,3 +89,6 @@ print('Task Completed!')
 - **File Naming:** Avoid using `set_filename()` in loops, as it may result in only one file being downloaded. Use unique names if needed.
 - **Error Handling:** Connection interruptions or format mismatches may raise exceptions.
 - **File Handling:** To download multiple videos in bulk, use a text file containing URLs for easy management.
+
+> If you’re having trouble, PyTube occasionally releases hotfixes for specific issues. You can check the PyTube GitHub for any open issues and potential fixes:
+[https://github.com/pytube/pytube/issues](https://github.com/pytube/pytube/issues)
